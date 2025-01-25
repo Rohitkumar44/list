@@ -1,0 +1,12 @@
+[200~.gradle
+istrator@61a5a53d129d51c MINGW64 ~/list (master)
+$ git .gradle
+.idea/
+.intellijPlatform/
+*.iml
+build/
+src/main/gen
+src/main/resources/templates.list
+src/main/resources/gitignore/*
+src/main/resources/toptal/*
+

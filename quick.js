@@ -26,6 +26,7 @@ async function partitionLomuto(ele, l, r){
             ele[j].style.background = 'pink';
         }
     }
+    // increment +1
     i++; 
     // pauseChamp
     await waitforme(delay);
