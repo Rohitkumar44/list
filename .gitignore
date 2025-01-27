@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Node modules (dependencies)
 node_modules/
@@ -41,13 +40,3 @@ Thumbs.db      # Windows thumbnail cache
 # npm package lock file (optional, but if you're not managing versions)
 package-lock.json
 yarn.lock
-=======
-[200~.gradle
-istrator@61a5a53d129d51c MINGW64 ~/list (master)
-$ git .gradle
-.idea/
-.intellijPlatform/
-*.iml
-*.index
->>>>>>> 1632e06 (performed LFS)
-
