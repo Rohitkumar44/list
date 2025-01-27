@@ -10,6 +10,7 @@ async function partitionLomuto(ele, l, r){
         ele[j].style.background = 'yellow';
         // pauseChamp
         await waitforme(delay);
+        ghd
 
         if(parseInt(ele[j].style.height) < parseInt(ele[r].style.height)){
             console.log('In partitionLomuto for j if');
